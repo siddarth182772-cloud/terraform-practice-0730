@@ -1,2 +1,2 @@
-ami_id = "ami-02dfbd4ff395f2a1b"
+ami_id = "ami-043ab4148b7bb33e9"
 instance_type = "t2.medium"
